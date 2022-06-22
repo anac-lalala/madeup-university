@@ -1,1 +1,1 @@
-# madeup-university
+# Madeup University Theme
